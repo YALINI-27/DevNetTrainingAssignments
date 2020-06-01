@@ -11,4 +11,4 @@ for item in json_data["response"]:
     print(item["family"])
     print(item["softwareType"])
     print(item["managementIpAddress"])
-    # print()
+    
